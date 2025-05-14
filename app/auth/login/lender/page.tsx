@@ -1,0 +1,23 @@
+import { SiteHeader } from "@/components/site-header"
+import { SiteFooter } from "@/components/site-footer"
+import { LoginForm } from "@/components/auth/login-form"
+
+export default function LenderLoginPage() {
+  return (
+    <div className="flex min-h-screen flex-col">
+      <SiteHeader />
+      <main className="flex-1 container py-12">
+        <div className="max-w-md mx-auto">
+          <div className="text-center mb-8">
+            <h1 className="text-3xl font-bold tracking-tight">Lender Login</h1>
+            <p className="text-muted-foreground mt-2">Access your lender account and manage your investments</p>
+          </div>
+          <div className="bg-card rounded-lg border shadow-sm p-6">
+            <LoginForm role="lender" />
+          </div>
+        </div>
+      </main>
+      <SiteFooter />
+    </div>
+  )
+}
