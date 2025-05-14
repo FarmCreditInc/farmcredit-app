@@ -6,27 +6,27 @@
 
 FarmCredit is a comprehensive financial platform designed to bridge the gap between Nigerian farmers and lenders, providing accessible credit solutions for agricultural development. The platform addresses the critical challenge of limited access to financing that Nigerian farmers face, which hinders agricultural growth and food security in the region.
 
-## Application URL & Credentials
+# Application URL & Credentials
 
-You can check out the application live project via this url
+You can view the live project at:
 
 - [Farm Credit Website](http://farmcredit.site/)
-- [Farm Credit Website URL 2](https://v0-multi-step-form-chideras-projects-bf3bcdb1.vercel.app/)
+- [Farm Credit Website (Alternate URL)](https://v0-multi-step-form-chideras-projects-bf3bcdb1.vercel.app/)
 
-Credentials to Access dashboard are as follows
+## Dashboard Access Credentials
 
-**Admin**
+### Admin  
+- **Username:** admin@example.com  
+- **Password:** admin123
 
-Username: admin@example.com
-Password: admin123
+### Lender  
+- **Username:** chidera.ozigbo@vfdtech.ng  
+- **Password:** Dera2010$
 
-**Lender**
-Username: chidera.ozigbo@vfdtech.ng
-Password: Dera2010$
+### Farmer  
+- **Username:** chideraozigbo@gmail.com  
+- **Password:** Dera2010$
 
-**Farmer**
-Username: chideraozigbo@gmail.com
-Password: Dera2010$
 
 ## Problem Statement
 
