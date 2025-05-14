@@ -128,6 +128,8 @@ The database includes the following key tables:
 - **Support_Tickets**: User support requests
 - **Learning_Modules**: Educational content
 
+Comprehensive schema details can be found [here](https://dbdocs.io/amandinancy16/DCA-Quarterly-Hackathon-2025?table=loan_contract&schema=public&view=table_structure)
+
 ## Installation and Setup
 
 ### Prerequisites
