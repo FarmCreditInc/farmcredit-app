@@ -73,10 +73,22 @@ FarmCredit creates a direct connection between farmers and lenders through a sec
 ### For Administrators
 
 - **User Verification**: Review and approve farmer and lender registrations
-- **Platform Oversight**: Monitor all transactions and loan activities
 - **Support Management**: Address user inquiries and resolve disputes
 - **Data Analytics**: Access comprehensive platform usage and impact metrics
 - **Content Management**: Update educational resources and platform information
+
+## Additional Features
+
+- **Smart AI Chatbot for Customer Support**  
+  Provides instant assistance to users by answering questions and offering guidance. Continuously updated with the latest educational resources and platform information.
+
+- **AI-Powered Credit Score Calculation**  
+  Uses advanced AI models to analyze financial data and determine user creditworthiness. Regularly improved using updated educational and platform data.
+
+- **AI-Enhanced FAQ Assistant**  
+  Responds intelligently to user questions based on frequently asked queries. Keeps answers relevant by leveraging up-to-date educational content and system knowledge.
+
+
 
 ## Technology Stack
 
