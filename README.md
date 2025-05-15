@@ -11,7 +11,7 @@ FarmCredit is a comprehensive financial platform designed to bridge the gap betw
 You can view the live project at:
 
 - [Farm Credit Website](http://farmcredit.site/)
-- [Farm Credit Website (Alternate URL)](https://v0-multi-step-form-chideras-projects-bf3bcdb1.vercel.app/)
+
 
 ## Dashboard Access Credentials
 
